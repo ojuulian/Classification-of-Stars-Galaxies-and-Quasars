@@ -1,2 +1,2 @@
 # Prueba-canal
-Pruueba para inicializarme en github
+Prueba para incicilizarme en GitHub
