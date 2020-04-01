@@ -1,2 +1,2 @@
-# Prueba-canal
-Prueba para incializarme en GitHub
+# Exoplanet Hunting in Deep Space
+Kepler labelled time series data
