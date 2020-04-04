@@ -3,7 +3,7 @@
 Los datos presentados aquí se derivan de las observaciones realizadas por el Sloan Digital Sky Survey  (SDSS) que es proyecto de investigación del espacio mediante imágenes en el espectro visible, tales obsevaciones son realizadas con el objetivo de de expandir nuestra comprensión de la evolución a gran escala para de esta manera la estructura del universo, la formación de estrellas y galaxias.
 
 <div align="center">
-           <img width="45%" src="imagenes/Survey.jpg" alt="List screen" title="List screen"></img>
+           <img width="55%" src="imagenes/Survey.jpg" alt="List screen" title="imagen tomada de SDSS "></img>
              <img height="0" width="8px">
 </div>
 
@@ -11,7 +11,7 @@ Por medio del SDSS se ha creado el primer mapa tridimensional más detallado del
 
 
 <div align="center">
-           <img width="45%" src="imagenes/sdss.jpg" alt="About screen" title="About screen"</img>
+           <img width="50%" src="imagenes/sdss.jpg" alt="About screen" title="imagen tomada de SDSS "</img>
            <img height="0" width="8px">
 </div>
 
