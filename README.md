@@ -1,18 +1,21 @@
 # Exoplanet Hunting in Deep Space (Caza de exoplanetas en el espacio profundo)
    
-   
-Los datos presentados aquí se derivan de las observaciones realizadas por el telescopio espacial Kepler de la NASA. Hace parte de una tarea generada a la comunidad científica pada describir patrones, contiene 5087 registros de estrellas donde 3198 son los flujos de luz detectados a traves del tiempo.
+Los datos presentados aquí se derivan de las observaciones realizadas por el Sloan Digital Sky Survey  (SDSS) que es proyecto de investigación del espacio mediante imágenes en el espectro visible, tales obsevaciones son realizadas con el objetivo de de expandir nuestra comprensión de la evolución a gran escala para de esta manera la estructura del universo, la formación de estrellas y galaxias.
 
-Para generar reste tipo de analisis se ha apoyado en diversas campañas de investigación y de esta manera poder aumentar el número de estrellas de exoplanetas en el conjunto de datos.
+Por medio del SDSS se ha creado el primer mapa tridimensional más detallado del universo con imágenes realizadas por un telescopio, el cual genera imágenes y espectros para más de tres millones de objetos astronómicos con imágenes profundas en varios colores de un tercio del cielo y espectros para más de tres millones de objetos astronómicos. Aprenda y explore todas las fases y encuestas (pasadas, presentes y futuras) del SDSS.
+
+
+<div align="center">
+           <img width="45%" src="imagenes/sdss.jpg" alt="About screen" title="About screen"</img>
+           <img height="0" width="8px">
+           <img width="45%" src="screen-shots/list.PNG" alt="List screen" title="List screen"></img>
+</div>
 
 
 ## Descripción
 
-5087 filas u observaciones.
-3198 columnas o características.
-La columna 1 es el vector de etiqueta. Las columnas 2 a 3198 son los valores de flujo a lo largo del tiempo.
-37 estrellas exoplanetas confirmadas y 5050 estrellas no exoplanetas.
+Este conjunto de datos está formado por 10,000 registros de observaciones del espacio tomadas por el Sloan Digital Sky Survey. Cada observación se describe mediante 17 columnas de características y 1 columna de destino que identifica la observación como una estrella, una galaxia o un cuásar.
 
 ## Objetivo
 
-Se quere entrenar un algoritmo de redes neuronales en TensorF para detectar estrellas con exoplanetas y además correr el proceso en paralelo en una red local configuradas por nosotros mismos
+Se quere entrenar un algoritmo de redes neuronales en TensorFlow para poder clasificar las observaciones del espacio, además de correr el proceso en paralelo en una red local configuradas por nosotros mismos.
