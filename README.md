@@ -1,4 +1,4 @@
-# Sloan Digital Sky Survey DR14 (Clasificación de estrellas, galaxias y cuásare)
+# Sloan Digital Sky Survey DR14 (Classification of Stars, Galaxies and Quasars)
    
 
 Los datos presentados aquí se derivan de las observaciones realizadas por el Sloan Digital Sky Survey  (SDSS) que es proyecto de investigación del espacio mediante imágenes en el espectro visible, tales obsevaciones son realizadas con el objetivo de de expandir nuestra comprensión de la evolución a gran escala para de esta manera la estructura del universo, la formación de estrellas y galaxias.
