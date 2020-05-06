@@ -24,4 +24,4 @@ Este conjunto de datos está formado por 10,000 registros de observaciones del e
 
 ## Objetivo
 
-Se quere entrenar un algoritmo de redes neuronales en TensorFlow para poder clasificar las observaciones del espacio, además de correr el proceso en paralelo en una red local configuradas por nosotros mismos.
+Entrenar un algoritmo de redes neuronales en TensorFlow para poder clasificar las observaciones del espacio, además de correr el proceso en paralelo en una red local configuradas por nosotros mismos.
