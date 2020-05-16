@@ -8,6 +8,7 @@ Los datos presentados aquí se derivan de las observaciones realizadas por el Sl
              <img height="0" width="15px">
 </div>
 
+<center><p>  Imágen tomada de SDSS    </p></center>
 
 Por medio del SDSS se ha creado el primer mapa tridimensional más detallado del universo con imágenes realizadas por un telescopio, el cual genera imágenes y espectros para más de tres millones de objetos astronómicos con imágenes profundas en varios colores de un tercio del cielo y espectros para más de tres millones de objetos astronómicos. Aprenda y explore todas las fases y encuestas (pasadas, presentes y futuras) del SDSS.
 
@@ -16,7 +17,7 @@ Por medio del SDSS se ha creado el primer mapa tridimensional más detallado del
            <img width="50%" src="imagenes/sdss.jpg" alt="About screen" title="Imagen tomada de SDSS "</img>
            <img height="0" width="8px">
 </div>
-
+<center><p>  Imágen tomada de SDSS    </p></center>
 
 ## Descripción
 
