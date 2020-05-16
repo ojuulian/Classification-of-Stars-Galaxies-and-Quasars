@@ -8,7 +8,7 @@ Los datos presentados aquí se derivan de las observaciones realizadas por el Sl
              <img height="0" width="15px">
 </div>
 
-<p><div align='center'>Imágen tomada de SDSS</div></p>
+<b><p><div align='center'>Imágen tomada de SDSS</div></p></b>
 
 Por medio del SDSS se ha creado el primer mapa tridimensional más detallado del universo con imágenes realizadas por un telescopio, el cual genera imágenes y espectros para más de tres millones de objetos astronómicos con imágenes profundas en varios colores de un tercio del cielo y espectros para más de tres millones de objetos astronómicos. Aprenda y explore todas las fases y encuestas (pasadas, presentes y futuras) del SDSS.
 
@@ -18,7 +18,7 @@ Por medio del SDSS se ha creado el primer mapa tridimensional más detallado del
            <img height="0" width="8px">
 </div>
 
-<p><div align='center'>Telescopio de SDSS. Patrick Gaulme.</div></p>
+<b><p><div align='center'>Telescopio de SDSS. Patrick Gaulme.</div></p></b>
 
 
 ## Descripción
@@ -27,11 +27,11 @@ Este conjunto de datos está formado por 10,000 registros de observaciones del e
 
 La toma de información obedece a una serie de mediciones como se muestra en la siguinete imagen:
 <div align="center">
-           <img width="50%" src="imagenes/deteccion.jpg" alt="About screen" title="Caracterizacion del telescopio SDSS "</img>
+           <img width="60%" src="imagenes/deteccion.jpg" alt="About screen" title="Caracterizacion del telescopio SDSS "</img>
            <img height="0" width="8px">
 </div>
 
-<p><div align='center'>Detección del telescopio de SDSS. tomada de SDSS</div></p>
+<b><p><div align='center'>Detección del telescopio de SDSS. tomada de SDSS</div></p></b>
 
 
 * objid = Identificador de objeto
@@ -59,4 +59,4 @@ SpecObj:
 
 ## Objetivo
 
-Entrenar un algoritmos de redes neuronales para poder clasificar las observaciones del espacio.
+Entrenar algoritmos de redes neuronales para poder clasificar las observaciones del espacio.
